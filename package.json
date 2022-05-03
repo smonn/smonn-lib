@@ -1,0 +1,17 @@
+{
+  "name": "test1",
+  "type": "module",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@parcel/packager-ts": "2.5.0",
+    "@parcel/transformer-typescript-types": "2.5.0",
+    "@types/node": "17.0.31",
+    "ava": "4.2.0",
+    "parcel": "2.5.0",
+    "ts-node": "10.7.0",
+    "typescript": "4.6.4",
+    "xo": "0.48.0"
+  }
+}

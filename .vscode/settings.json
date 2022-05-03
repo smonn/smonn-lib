@@ -1,0 +1,10 @@
+{
+  "prettier.enable": false,
+  "eslint.enable": false,
+  "editor.formatOnSave": true,
+  "xo.enable": true,
+  "xo.format.enable": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "samverschueren.linter-xo"
+  }
+}
