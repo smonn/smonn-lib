@@ -41,6 +41,3 @@ jobs:
 
       - name: Push updates to repo
         run: git push
-        env:
-          # The secret is passed automatically. Nothing to configure.
-          github-token: ${{ secrets.GITHUB_TOKEN }}
