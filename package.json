@@ -7,7 +7,7 @@
   "sideEffects": false,
   "dependencies": {
     "@parcel/packager-ts": "2.5.0",
-    "@parcel/transformer-typescript-types": "2.5.0",
+    "@parcel/transformer-typescript-types": "2.6.0",
     "@types/node": "17.0.31",
     "ava": "4.2.0",
     "c8": "7.11.2",
